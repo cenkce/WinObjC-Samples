@@ -10,7 +10,6 @@ The Windows Bridge for iOS (also referred to as WinObjC) is a Microsoft open-sou
 </ul></p></td>
 </tr></table>
 
-
 ## Sample apps
 The WinObjC sample apps can be found in */Apps*. They include:
 - [**ToDoList**](/Apps/ToDoList)
